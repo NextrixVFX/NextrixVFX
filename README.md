@@ -6,8 +6,8 @@
 
 # Hi I'm NextrixVFX, Computer Engineer for 8~ years.
 ## Programming Languages:
-- ### Main Langs: ```JS/EJS, HTML+CSS, HLSL/GLSL, PYTHON.```
-- ### Side Langs: ```C/C++, C# (WPF), JAVA/KOTLIN, V/GOLANG.```
+- ### Main Langs: ```HTML+CSS+JS, HLSL, PYTHON.```
+- ### Side Langs: ```C++, C# (WPF), JAVA, RUST.```
 ## Main Skillset:
 - ### Hardware: ```UART Shell Access (IoT), Anything RSPI or ESP, Jamming / Hijacking Anything CB/FM/GHZ [28MHZ-2.4/5.2GHZ].```
 - ### Software: ```Realtime AI Via TensorRT / Pytorch, Some Gamehacking, Shader Dev, Some Networking / Server knowledge.```
