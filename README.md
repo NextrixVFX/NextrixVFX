@@ -10,6 +10,6 @@
 - ### Side Langs: ```C++, C# (WPF), JAVA, RUST.```
 ## Main Skillset:
 - ### Hardware: ```IoT Hacking, RSPI / ESP Interfacing, and Radio Hijacking.```
-- ### Software: ```Realtime AI w/ YOLO, Modding, Shaders, and Networking / Server usage.```
+- ### Software: ```Realtime AI w/ YOLOv8, Modding, Shaders, and Networking / Server usage.```
 
 
