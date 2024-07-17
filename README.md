@@ -9,7 +9,7 @@
 - ### Main Langs: ```HTML+CSS+JS, HLSL, PYTHON.```
 - ### Side Langs: ```C++, C# (WPF), JAVA, RUST.```
 ## Main Skillset:
-- ### Hardware: ```UART Shell Access (IoT), Anything RSPI or ESP, Jamming / Hijacking Anything CB/FM/GHZ [28MHZ-2.4/5.2GHZ].```
-- ### Software: ```Realtime AI Via TensorRT / Pytorch, Some Gamehacking, Shader Dev, Some Networking / Server knowledge.```
+- ### Hardware: ```IoT Hacking, RSPI / ESP Interfacing, and Radio Hijacking.```
+- ### Software: ```Realtime AI w/ YOLO, Modding, Shaders, and Networking / Server usage.```
 
 
