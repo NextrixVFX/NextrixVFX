@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineer for 8+ Years<br>VRChat Keyframer<br>FCC Loves me :3
+Computer Engineer for 8+ Years<br>VRChat Keyframer<br>FCC Loves me :3<br>Pro Tip: Transmittion is REALLY EASY.
 
 
 ## 🌐 Socials:
