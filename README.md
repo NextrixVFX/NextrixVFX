@@ -1,5 +1,5 @@
 # 💫 About Me:
-6 Years of Computer Engineering<br>10 Years of Software Engineering
+I'm 18, and interested in creating modular automotive systems and GPU programming via both CUDA and HLSL.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.nextrix.xyz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nextrixvfx) 
