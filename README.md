@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 18, and interested in Windows Kernel Development, Game Cheats, Automotive AI Systems, and GPU Programming with both CUDA and HLSL.
+I'm 19, and interested in Windows Kernel Development, Game Cheats, Automotive AI Systems, and GPU Programming with both CUDA and HLSL.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.nextrix.xyz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nextrixvfx) 
