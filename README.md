@@ -1,8 +1,56 @@
-# 💫 About Me:
-I'm 19, majoring in Computer Engineering, and interested in Windows Kernel Development, Unreal Engine / Unity, Automotive AI Systems, and GPU Programming with both CUDA and HLSL.
+# 👋 Hey, I'm Nextrix
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.nextrix.xyz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nextrixvfx) 
+```cpp
+Computer Engineering Student
+Windows Kernel Development • GPU Programming • Embedded Systems • Automotive AI
+```
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+I'm a 19-year-old Computer Engineering student focused on low-level software, real-time graphics, and hardware-oriented development.
+Most of my work revolves around:
+
+* 🖥️ Windows Kernel & Systems Programming
+* 🎮 Unreal Engine / Unity Development
+* ⚡ GPU Programming with CUDA & HLSL
+* 🚗 Automotive AI & Visualization Systems
+* 🔌 Embedded Development with ESP32 / Arduino
+* 🤖 Computer Vision & Neural Networks
+
+---
+
+# 🌐 Connect With Me
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### 🎮 Graphics & Game Development
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+### 🔧 Systems & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### 🔌 Embedded & AI
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
+
+# 📌 Current Interests
+
+* Kernel-level software architecture
+* GPU accelerated rendering pipelines
+* Automotive visualization systems
+* Real-time object detection & depth estimation
+* Shader development & rendering techniques
+* Reverse engineering & low-level debugging
+
+---
+
+# 📈 GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
