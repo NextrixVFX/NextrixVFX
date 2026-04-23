@@ -17,25 +17,26 @@ Most of my work revolves around:
 
 ---
 
-# 🌐 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
----
-
 # ⚙️ Tech Stack
-
 ### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,nodejs)](https://skillicons.dev)
 
 ### 🎮 Graphics & Game Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+[![Graphics](https://skillicons.dev/icons?i=unity,unreal,opencv,webgl)](https://skillicons.dev)
 
 ### 🔧 Systems & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github)](https://skillicons.dev)
 
 ### 🔌 Embedded & AI
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![Embedded & AI](https://skillicons.dev/icons?i=arduino,raspberrypi,pytorch)](https://skillicons.dev)
+
+### 🌐 Socials
+
+[![Socials](https://skillicons.dev/icons?i=discord,youtube)](https://skillicons.dev)
 
 ---
 
