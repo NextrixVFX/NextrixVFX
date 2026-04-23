@@ -54,6 +54,6 @@ Most of my work revolves around:
 ---
 
 # 📈 GitHub Stats
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
