@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Nextrix
 
+![](https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet)
+
 ```cpp
 Computer Engineering Student
 Windows Kernel Development • GPU Programming • Embedded Systems • Automotive AI
