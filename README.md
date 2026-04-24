@@ -26,11 +26,11 @@ Most of my work revolves around:
 
 ### 🎮 Graphics & Game Development
 
-[![Graphics](https://skillicons.dev/icons?i=unity,unreal,opencv,webgl)](https://skillicons.dev)
+[![Graphics](https://skillicons.dev/icons?i=unity,unreal,opencv,threejs)](https://skillicons.dev)
 
 ### 🔧 Systems & Infrastructure
 
-[![Infrastructure](https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=visualstudio,windows,linux,apple,nginx)](https://skillicons.dev)
 
 ### 🔌 Embedded & AI
 
@@ -38,7 +38,7 @@ Most of my work revolves around:
 
 ### 🌐 Socials
 
-[![Socials](https://skillicons.dev/icons?i=discord,youtube)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
 
 ---
 
@@ -54,5 +54,8 @@ Most of my work revolves around:
 ---
 
 # 📈 GitHub Stats
-[![Nextrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NextrixVFX&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://github-readme-stats.vercel.app/api?username=NextrixVFX&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextrixVFX&theme=tokyonight&hide_border=true&layout=compact) 
+
 ---
