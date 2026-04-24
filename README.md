@@ -1,7 +1,11 @@
 
 ---
 
-<div align="center"> <table> <tr> <td> # 👋 Hey, I'm Nextrix </td> <td align="right"> ![](https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet) </td> </tr> </table> </div>
+<h1 align="left">
+  👋 Hey, I'm Nextrix
+  <img src="https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet" align="right" />
+</h1>
+
 
 ```
 Computer Engineering Student
