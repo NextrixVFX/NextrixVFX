@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hey, I'm Nextrix
+<div align="center"> <table> <tr> <td> # 👋 Hey, I'm Nextrix </td> <td align="right"> ![](https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet) </td> </tr> </table> </div>
 
 ```
 Computer Engineering Student
@@ -57,9 +57,6 @@ Most of my work revolves around:
 # 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NextrixVFX&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextrixVFX&theme=tokyonight&hide_border=true&layout=compact) 
-
-![](https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet)
 
 ---
