@@ -47,17 +47,6 @@ Most of my work revolves around:
 
 ---
 
-# 📌 Current Interests
-
-* Kernel-level software architecture
-* GPU accelerated rendering pipelines
-* Automotive visualization systems
-* Real-time object detection & depth estimation
-* Shader development & rendering techniques
-* Reverse engineering & low-level debugging
-
----
-
 # 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NextrixVFX&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
