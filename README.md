@@ -1,6 +1,6 @@
+# 👋 Hey, I'm Nextrix
 
-
-```cpp
+```
 Computer Engineering Student
 Windows Kernel Development • GPU Programming • Embedded Systems • Automotive AI
 ```
