@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Nextrix
-
 ![](https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet)
 
 ```cpp
