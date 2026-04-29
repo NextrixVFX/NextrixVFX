@@ -2,7 +2,7 @@
 ---
 
 <h1 align="left">
-  👋 Hey, I'm Nextrix
+  👋 Hey, I'm John
   <img src="https://komarev.com/ghpvc/?username=NextrixVFX&style=for-the-badge&color=blueviolet" align="right" />
 </h1>
 
