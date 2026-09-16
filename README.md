@@ -49,7 +49,7 @@ Most of my work revolves around:
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NextrixVFX&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextrixVFX&theme=tokyonight&hide_border=true&layout=compact) 
+![](https://github-stats-extended.vercel.app/api?username=NextrixVFX&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=NextrixVFX&theme=tokyonight&hide_border=true&layout=compact) 
 
 ---
